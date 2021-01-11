@@ -1,0 +1,301 @@
+[
+    {
+        "arguments": [
+            "cc",
+            "-c",
+            "-I.",
+            "-I../include",
+            "-I../include/uapi",
+            "-g",
+            "-O2",
+            "-Werror",
+            "-Wall",
+            "-D_LARGEFILE64_SOURCE",
+            "-D_FILE_OFFSET_BITS=64",
+            "-o",
+            "/home/crash/Documents/local/sysdig-repo/libbpf-bootstrap/lsm/.output//libbpf/staticobjs/hashmap.o",
+            "hashmap.c"
+        ],
+        "directory": "/home/crash/Documents/local/sysdig-repo/libbpf-bootstrap/libbpf/src",
+        "file": "hashmap.c"
+    },
+    {
+        "arguments": [
+            "cc",
+            "-c",
+            "-I.",
+            "-I../include",
+            "-I../include/uapi",
+            "-g",
+            "-O2",
+            "-Werror",
+            "-Wall",
+            "-D_LARGEFILE64_SOURCE",
+            "-D_FILE_OFFSET_BITS=64",
+            "-o",
+            "/home/crash/Documents/local/sysdig-repo/libbpf-bootstrap/lsm/.output//libbpf/staticobjs/btf.o",
+            "btf.c"
+        ],
+        "directory": "/home/crash/Documents/local/sysdig-repo/libbpf-bootstrap/libbpf/src",
+        "file": "btf.c"
+    },
+    {
+        "arguments": [
+            "cc",
+            "-c",
+            "-I.",
+            "-I../include",
+            "-I../include/uapi",
+            "-g",
+            "-O2",
+            "-Werror",
+            "-Wall",
+            "-D_LARGEFILE64_SOURCE",
+            "-D_FILE_OFFSET_BITS=64",
+            "-o",
+            "/home/crash/Documents/local/sysdig-repo/libbpf-bootstrap/lsm/.output//libbpf/staticobjs/libbpf.o",
+            "libbpf.c"
+        ],
+        "directory": "/home/crash/Documents/local/sysdig-repo/libbpf-bootstrap/libbpf/src",
+        "file": "libbpf.c"
+    },
+    {
+        "arguments": [
+            "cc",
+            "-c",
+            "-I.",
+            "-I../include",
+            "-I../include/uapi",
+            "-g",
+            "-O2",
+            "-Werror",
+            "-Wall",
+            "-D_LARGEFILE64_SOURCE",
+            "-D_FILE_OFFSET_BITS=64",
+            "-o",
+            "/home/crash/Documents/local/sysdig-repo/libbpf-bootstrap/lsm/.output//libbpf/staticobjs/xsk.o",
+            "xsk.c"
+        ],
+        "directory": "/home/crash/Documents/local/sysdig-repo/libbpf-bootstrap/libbpf/src",
+        "file": "xsk.c"
+    },
+    {
+        "arguments": [
+            "cc",
+            "-c",
+            "-I.",
+            "-I../include",
+            "-I../include/uapi",
+            "-g",
+            "-O2",
+            "-Werror",
+            "-Wall",
+            "-D_LARGEFILE64_SOURCE",
+            "-D_FILE_OFFSET_BITS=64",
+            "-o",
+            "/home/crash/Documents/local/sysdig-repo/libbpf-bootstrap/lsm/.output//libbpf/staticobjs/ringbuf.o",
+            "ringbuf.c"
+        ],
+        "directory": "/home/crash/Documents/local/sysdig-repo/libbpf-bootstrap/libbpf/src",
+        "file": "ringbuf.c"
+    },
+    {
+        "arguments": [
+            "cc",
+            "-c",
+            "-I.",
+            "-I../include",
+            "-I../include/uapi",
+            "-g",
+            "-O2",
+            "-Werror",
+            "-Wall",
+            "-D_LARGEFILE64_SOURCE",
+            "-D_FILE_OFFSET_BITS=64",
+            "-o",
+            "/home/crash/Documents/local/sysdig-repo/libbpf-bootstrap/lsm/.output//libbpf/staticobjs/bpf.o",
+            "bpf.c"
+        ],
+        "directory": "/home/crash/Documents/local/sysdig-repo/libbpf-bootstrap/libbpf/src",
+        "file": "bpf.c"
+    },
+    {
+        "arguments": [
+            "cc",
+            "-c",
+            "-I.",
+            "-I../include",
+            "-I../include/uapi",
+            "-g",
+            "-O2",
+            "-Werror",
+            "-Wall",
+            "-D_LARGEFILE64_SOURCE",
+            "-D_FILE_OFFSET_BITS=64",
+            "-o",
+            "/home/crash/Documents/local/sysdig-repo/libbpf-bootstrap/lsm/.output//libbpf/staticobjs/str_error.o",
+            "str_error.c"
+        ],
+        "directory": "/home/crash/Documents/local/sysdig-repo/libbpf-bootstrap/libbpf/src",
+        "file": "str_error.c"
+    },
+    {
+        "arguments": [
+            "cc",
+            "-c",
+            "-g",
+            "-Wall",
+            "-I.output",
+            "-o",
+            ".output/lsm.o",
+            "lsm.c"
+        ],
+        "directory": "/home/crash/Documents/local/sysdig-repo/libbpf-bootstrap/lsm",
+        "file": "lsm.c"
+    },
+    {
+        "arguments": [
+            "cc",
+            "-c",
+            "-I.",
+            "-I../include",
+            "-I../include/uapi",
+            "-g",
+            "-O2",
+            "-Werror",
+            "-Wall",
+            "-D_LARGEFILE64_SOURCE",
+            "-D_FILE_OFFSET_BITS=64",
+            "-o",
+            "/home/crash/Documents/local/sysdig-repo/libbpf-bootstrap/lsm/.output//libbpf/staticobjs/netlink.o",
+            "netlink.c"
+        ],
+        "directory": "/home/crash/Documents/local/sysdig-repo/libbpf-bootstrap/libbpf/src",
+        "file": "netlink.c"
+    },
+    {
+        "arguments": [
+            "cc",
+            "-c",
+            "-I.",
+            "-I../include",
+            "-I../include/uapi",
+            "-g",
+            "-O2",
+            "-Werror",
+            "-Wall",
+            "-D_LARGEFILE64_SOURCE",
+            "-D_FILE_OFFSET_BITS=64",
+            "-o",
+            "/home/crash/Documents/local/sysdig-repo/libbpf-bootstrap/lsm/.output//libbpf/staticobjs/bpf_prog_linfo.o",
+            "bpf_prog_linfo.c"
+        ],
+        "directory": "/home/crash/Documents/local/sysdig-repo/libbpf-bootstrap/libbpf/src",
+        "file": "bpf_prog_linfo.c"
+    },
+    {
+        "arguments": [
+            "cc",
+            "-c",
+            "-I.",
+            "-I../include",
+            "-I../include/uapi",
+            "-g",
+            "-O2",
+            "-Werror",
+            "-Wall",
+            "-D_LARGEFILE64_SOURCE",
+            "-D_FILE_OFFSET_BITS=64",
+            "-o",
+            "/home/crash/Documents/local/sysdig-repo/libbpf-bootstrap/lsm/.output//libbpf/staticobjs/nlattr.o",
+            "nlattr.c"
+        ],
+        "directory": "/home/crash/Documents/local/sysdig-repo/libbpf-bootstrap/libbpf/src",
+        "file": "nlattr.c"
+    },
+    {
+        "arguments": [
+            "clang",
+            "-c",
+            "-g",
+            "-O2",
+            "-target",
+            "bpf",
+            "-D__TARGET_ARCH_x86",
+            "-I.output",
+            "-idirafter",
+            "/usr/local/include",
+            "-idirafter",
+            "/usr/lib/llvm-10/lib/clang/10.0.0/include",
+            "-idirafter",
+            "/usr/include/x86_64-linux-gnu",
+            "-idirafter",
+            "/usr/include",
+            "-o",
+            ".output/lsm.bpf.o",
+            "lsm.bpf.c"
+        ],
+        "directory": "/home/crash/Documents/local/sysdig-repo/libbpf-bootstrap/lsm",
+        "file": "lsm.bpf.c"
+    },
+    {
+        "arguments": [
+            "cc",
+            "-c",
+            "-I.",
+            "-I../include",
+            "-I../include/uapi",
+            "-g",
+            "-O2",
+            "-Werror",
+            "-Wall",
+            "-D_LARGEFILE64_SOURCE",
+            "-D_FILE_OFFSET_BITS=64",
+            "-o",
+            "/home/crash/Documents/local/sysdig-repo/libbpf-bootstrap/lsm/.output//libbpf/staticobjs/btf_dump.o",
+            "btf_dump.c"
+        ],
+        "directory": "/home/crash/Documents/local/sysdig-repo/libbpf-bootstrap/libbpf/src",
+        "file": "btf_dump.c"
+    },
+    {
+        "arguments": [
+            "cc",
+            "-c",
+            "-I.",
+            "-I../include",
+            "-I../include/uapi",
+            "-g",
+            "-O2",
+            "-Werror",
+            "-Wall",
+            "-D_LARGEFILE64_SOURCE",
+            "-D_FILE_OFFSET_BITS=64",
+            "-o",
+            "/home/crash/Documents/local/sysdig-repo/libbpf-bootstrap/lsm/.output//libbpf/staticobjs/libbpf_errno.o",
+            "libbpf_errno.c"
+        ],
+        "directory": "/home/crash/Documents/local/sysdig-repo/libbpf-bootstrap/libbpf/src",
+        "file": "libbpf_errno.c"
+    },
+    {
+        "arguments": [
+            "cc",
+            "-c",
+            "-I.",
+            "-I../include",
+            "-I../include/uapi",
+            "-g",
+            "-O2",
+            "-Werror",
+            "-Wall",
+            "-D_LARGEFILE64_SOURCE",
+            "-D_FILE_OFFSET_BITS=64",
+            "-o",
+            "/home/crash/Documents/local/sysdig-repo/libbpf-bootstrap/lsm/.output//libbpf/staticobjs/libbpf_probes.o",
+            "libbpf_probes.c"
+        ],
+        "directory": "/home/crash/Documents/local/sysdig-repo/libbpf-bootstrap/libbpf/src",
+        "file": "libbpf_probes.c"
+    }
+]
